@@ -1,0 +1,7 @@
+{
+    "env": {
+        "SPOTIFY_REDIRECT_URL": "http://localhost:3000/",
+        "SPOTIFY_CLIENT_ID": "f2fbed7f4d14421790e9bc2ca2bf27c2",
+        "SPOTIFY_CLIENT_SECRET": "54801e1ec9374aebaa9711247fb521f0"
+    }
+}
